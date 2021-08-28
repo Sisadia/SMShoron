@@ -5,7 +5,7 @@ I am Sadia Islam Shoron.
 
 Proficient in developing web and database, creating user interface, writing and testing codes, troubleshooting issues and implementing features based on user feedback.
 
-A fast learner, hard worker who would like to begin her career in an engaging entry-level position by working for a company that allows utilizing my education & skills while gaining valuable work experiencein a team-oriented environment and also contribute to the success and long-term growth of the company through my work.
+A fast learner, hard worker who would like to begin career in an engaging entry-level position by working for a company that allows utilizing my education & skills while gaining valuable work experiencein a team-oriented environment and also contribute to the success and long-term growth of the company through my work.
 
 
 - 🔭 I’m currently working on ... brushing up my Frontend Skill 
