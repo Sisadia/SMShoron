@@ -11,7 +11,7 @@ A <b>fast learner</b>, <b>hard worker</b> who would like to begin career in an e
 - 💻 I’m currently working on ... Automation Testing 
 - 📖 I’m currently learning ... Selenium.
 - 🤝 I’m looking to collaborate on ... Any Testing Project
-- 📫 How to reach me... Send me an email with subject shoronsrs@gmail.com
+- 📫 How to reach me... Send me an email with subject sadiasislam@outlook.com
 - 👩‍💻 Check Profiles... <a href="https://linktr.ee/sadiamshoron">Sadia Islam Shoron</a>
 
 #### 👨‍💻 Programming languages
