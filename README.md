@@ -2,7 +2,7 @@
 
 I am <b>Sadia Islam Shoron.</b>
 
-I am a self-motivated professional passionate about quality control. I have a solid understanding of <b>QA methodologies, tools, processes,Software Development Life Cycle (SDLC), STLC, SQL, Automation Testing, Manual Testing, Unit Testing, Debugging, and good knowledge of Database Management Systems.</b>
+I am a self-motivated passionate about QA. I have a solid understanding of <b>QA methodologies, tools, processes,Software Development Life Cycle (SDLC), STLC, SQL, Automation Testing, Manual Testing, Unit Testing, Debugging, and good knowledge of Database Management Systems.</b>
 
 Also Proficient in developing web and database, creating user interface, writing and testing codes, troubleshooting issues and implementing features based on user feedback.
 
