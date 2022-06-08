@@ -1,6 +1,6 @@
 <h1 id="home"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hola </h1>
 
-I am <b>Sadia Islam Shoron.</b>
+I am <b>Sadia Islam.</b>
 
 I am a self-motivated passionate about QA. I have a solid understanding of <b>QA methodologies, tools, processes,Software Development Life Cycle (SDLC), STLC, SQL, Automation Testing, Manual Testing, Unit Testing, Debugging, and good knowledge of Database Management Systems.</b>
 
